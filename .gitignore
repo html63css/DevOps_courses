@@ -31,4 +31,4 @@ override.tf.json
 push.sh
 packer_cache
 virtualbox-ubuntu1804.box
-1.Containers-VMs/1.1.Vagrant+Packer/README.md
+.vagrant
